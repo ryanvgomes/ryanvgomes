@@ -1,5 +1,8 @@
-![Animation Banner](https://user-images.githubusercontent.com/93164668/138920363-af84d7f9-91a1-4d63-b5eb-65a977ece833.gif)
+<div>
+ <img src="https://user-images.githubusercontent.com/93164668/138920363-af84d7f9-91a1-4d63-b5eb-65a977ece833.gif" alt="animated banner" height="400px">
+</div>
 
+<!-- ![Animation Banner](https://user-images.githubusercontent.com/93164668/138920363-af84d7f9-91a1-4d63-b5eb-65a977ece833.gif) -->
 
 # Hi there! I am Ryan👋
 
