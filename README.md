@@ -12,5 +12,8 @@
  - 🎮 My favorite game is Persona 5
  - 🤝 Nice to meet you!
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvgomes&count_private=true&show_icons=true&theme=tokyonight)
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvgomes&layout=compact&theme=tokyonight" height="195px" alt="Most used languages"> -->
+##
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanvgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
