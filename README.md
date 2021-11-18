@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I am Ryan👋</h1>
 
-<img src="https://user-images.githubusercontent.com/93164668/142193945-3813ab03-822f-49b0-ae4c-78fa4f58f3ba.png" width="300px" align="right" alt="Computer Illustration">
+<img src="https://user-images.githubusercontent.com/93164668/142193945-3813ab03-822f-49b0-ae4c-78fa4f58f3ba.png" width="400px" align="right" alt="Computer Illustration">
 
  New to the world of programming!<br>
  I'm 19 years old and I'm currently studying Javascript, HTML and CSS.<br>
@@ -11,14 +11,16 @@
 
 **_Build the future 🚀_**
 
-<br>
-<h2 align="center">Some facts about me!</h2>
+<br><br>
+<h2>About my Hobbies!</h2>
 
-<img src="https://user-images.githubusercontent.com/93164668/142416114-be366988-3943-4ed9-9c5a-1b8b38087f22.gif" width="100px" align="right">
+<img src="https://user-images.githubusercontent.com/93164668/142421987-c61592ae-46f6-4468-81d7-a3f6c49bda95.gif" alt="Persona 5 Pixel Art" width="100px" align="right">
 
- ❤ Books, animes and games<br>
-🎮 My favorite game is Persona 5<br>
-🐱‍👤 Big naruto fan
+ - ❤ Books, technologie, animes and games!
+ - 📖 My favorite book is Les Miserables
+ - 🎮 My favorite game is Persona 5
+ - 🐱‍👤 Big Naruto fan
+ - ⚡ Fun Fact: I have two tattoos, one from The Lord of the Rings and one from Les Miserables
 
  ##
  
