@@ -16,7 +16,7 @@
 
 **_Build the future 🚀_**
 
-<h2>Curiositie's about me!</h2>
+<h2>Curiosities about me!</h2>
 
 <img src="https://user-images.githubusercontent.com/93164668/142421987-c61592ae-46f6-4468-81d7-a3f6c49bda95.gif" alt="Persona 5 Pixel Art" width="100px" align="right">
 
