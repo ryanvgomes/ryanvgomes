@@ -34,4 +34,4 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvgomes&layout=compact&theme=tokyonight"/>
 </div>
 
-<!-- ![Snake animation](https://github.com/ryanvgomes/ryanvgomes/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/ryanvgomes/ryanvgomes/blob/output/github-contribution-grid-snake.svg)
