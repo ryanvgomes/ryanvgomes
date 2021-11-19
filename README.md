@@ -9,14 +9,13 @@
 📚 I'm getting ready to learn React, Node, Elixir and TypeScript technologies.<br>
 📈 My next goal is to take off in my career, getting my first job as a Dev.
 
-<br>
-"I do not fear computers. I fear the lack of them"
-<p align="center">- Isaac Azimov</p>
+<div align="right">
+ "I do not fear computers. I fear the lack of them"<br>
+ - Isaac Azimov
+</div>
 
-<br>
 **_Build the future 🚀_**
 
-<br>
 <h2>About my Hobbies!</h2>
 
 <img src="https://user-images.githubusercontent.com/93164668/142421987-c61592ae-46f6-4468-81d7-a3f6c49bda95.gif" alt="Persona 5 Pixel Art" width="100px" align="right">
