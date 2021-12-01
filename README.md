@@ -6,7 +6,7 @@
  I'm 19 years old and I'm currently learning Javascript, HTML and CSS.<br>
  
 🎯 Studying to be a Full-Stack Dev focused on Mobile development with React Native.<br>
-📚 I'm getting ready to learn React, Node, Elixir and TypeScript technologies.<br>
+📚 I'm getting ready to learn React, Node, Elixir, Python and TypeScript technologies.<br>
 📈 My next goal is to take off in my career, getting my first job as a Dev.
 
 <div align="right">
