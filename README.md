@@ -6,15 +6,13 @@
  I'm 19 years old and I'm currently learning Javascript, HTML and CSS.<br>
  
 🎯 Studying to be a Full-Stack Dev focused on Mobile development with React Native.<br>
-📚 I'm getting ready to learn React, Node, Elixir, Python and TypeScript technologies.<br>
+📚 I'm getting ready to learn React, Node and TypeScript technologies.<br>
 📈 My next goal is to take off in my career, getting my first job as a Dev.
 
 <div align="right">
  "I do not fear computers. I fear the lack of them"<br>
  - Isaac Azimov
 </div>
-
-**_Build the future 🚀_**
 
 <h2>Curiosities about me!</h2>
 
@@ -30,8 +28,8 @@
  
 <div>
   <a href="https://github.com/ryanvgomes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ryanvgomes&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvgomes&layout=compact&theme=aura"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ryanborel&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanborels&layout=compact&theme=aura"/>
 </div>
 
-![Snake animation](https://github.com/ryanvgomes/ryanvgomes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ryanborel/ryanborels/blob/output/github-contribution-grid-snake.svg)
