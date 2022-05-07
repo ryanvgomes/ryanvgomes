@@ -32,4 +32,4 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanborel&layout=compact&theme=aura"/>
 </div>
 
-
+![Snake animation](https://github.com/ryanborel/ryanborel/blob/output/github-contribution-grid-snake.svg)
