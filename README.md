@@ -13,9 +13,9 @@ Studying the fundamentals of web development and basic linux usability.<br>
 <a href="https://instagram.com/ryan.borel" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ryan.borel-05122A?style=flat&logo=instagram" alt="instagram" />
 </a>
-<!-- <a href="https://twitter.com/ryanborel" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ryanborel-05122A?style=flat&logo=twitter" alt="twitter" />
-</a> -->
+<a href="https://twitter.com/ryangborel" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ryangborel-05122A?style=flat&logo=twitter" alt="twitter" />
+</a>
 <a href="https://facebook.com/ryangborel" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ryanborel-05122A?style=flat&logo=facebook" alt="facebook" />
 </a>
