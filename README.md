@@ -45,7 +45,7 @@ Enthusiastic about Open Source technologies and great desire to contribute to th
 
  ❤️‍🔥 Books and animes/mangas<br>
  ⚔️ Big Berserk fan<br>
- 🎮 Retrô/RPG - 🥇 Persona 5
+ 🎮 Retro/RPG - 🥇 Persona 5
  
  ##
  
