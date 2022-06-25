@@ -1,9 +1,9 @@
 ## Hey Folks! <img align="right" src="https://komarev.com/ghpvc/?username=ryanborel&color=blueviolet" />
 
+Enthusiastic about Open Source technologies and great desire to contribute to the community.
+
 Studying the fundamentals of web development and basic linux usability.<br>
 📚 HTML/CSS | JavaScript > React | Node
-
-Enthusiastic about Open Source technologies and great desire to contribute to the community.
 
 “A human must turn information into intelligence or knowledge. We've tended to forget that no computer will ever ask a new question.”
 
