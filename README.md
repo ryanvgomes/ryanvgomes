@@ -1,4 +1,4 @@
-## Hey Folks! <img align="right" src="https://komarev.com/ghpvc/?username=ryanborel&color=blueviolet"/>
+## Hey Folks! <img align="right" src="https://komarev.com/ghpvc/?username=ryanborel&color=blueviolet" />
 
 Studying the fundamentals of web development and basic linux usability.<br>
 📚 HTML/CSS | JavaScript > React | Node
@@ -8,41 +8,43 @@ Enthusiastic about Open Source technologies and great desire to contribute to th
 “A human must turn information into intelligence or knowledge. We've tended to forget that no computer will ever ask a new question.”
 
 <a href="https://linkedin.com/in/ryanborel" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ryanborel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-ryanborel-05122A?style=flat&logo=linkedin" alt="linkedin" />
 </a>
 <a href="https://instagram.com/ryan.borel" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ryan.borel-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-ryan.borel-05122A?style=flat&logo=instagram" alt="instagram" />
 </a>
 <!-- <a href="https://twitter.com/ryanborel" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ryanborel-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-ryanborel-05122A?style=flat&logo=twitter" alt="twitter" />
 </a> -->
 <a href="https://facebook.com/ryangborel" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ryanborel-05122A?style=flat&logo=facebook" alt="facebook"/>
+  <img align="center" src="https://img.shields.io/badge/-ryanborel-05122A?style=flat&logo=facebook" alt="facebook" />
 </a>
 <a href="mailto:contato@ryanborel.com.br" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-contato@ryanborel.com.br-05122A?style=flat&logo=gmail" alt="email"/>
+  <img align="center" src="https://img.shields.io/badge/-contato@ryanborel.com.br-05122A?style=flat&logo=gmail" alt="email" />
 </a>
 
 ## Tool Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<div>
+  <img width ="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width ="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width ="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width ="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width ="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
 
 ## More
 
- ❤️‍🔥 Books and animes/mangas<br>
- ⚔️ Big Berserk fan<br>
- 🎮 Retro/RPG - 🥇 Persona 5
+- ❤️‍🔥 Books and animes/mangas
+- ⚔️ Big Berserk fan
+- 🎮 Retro/RPG - 🥇 Persona 5
  
- ##
+##
  
 <div>
   <a href="https://github.com/ryanborel">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ryanborel&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 <!--   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanborel&layout=compact&theme=aura"/> -->
+    
+  ![Snake animation](https://github.com/ryanborel/ryanborel/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-![Snake animation](https://github.com/ryanborel/ryanborel/blob/output/github-contribution-grid-snake.svg)
