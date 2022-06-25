@@ -14,7 +14,7 @@
 
 <a href="https://facebook.com/ryangborel" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ryanborel-05122A?style=flat&logo=facebook" alt="facebook"/>
-</a><br>
+</a>
 
 <a href="mailto:contato@ryanborel.com.br" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-contato@ryanborel.com.br-05122A?style=flat&logo=gmail" alt="email"/>
